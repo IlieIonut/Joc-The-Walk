@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556264112 source:c:\users\ilie\desktop\poo\tema2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"robot.h"
+
+1556231377 c:\users\ilie\desktop\poo\tema2\robot.h
+	<iostream>
+
+1556231377 source:c:\users\ilie\desktop\poo\tema2\robot.cpp
+	"robot.h"
+	<iostream>
+
